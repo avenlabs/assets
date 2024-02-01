@@ -1,0 +1,33 @@
+{
+    "name": "Engram",
+    "website": "https://engramnet.io/",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://tokioscan-v2.engram.tech",
+    "research": "https://research.binance.com/en/projects/ethereum",
+    "symbol": "tGRAM",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "dapp",
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/engram-network"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/engramnet"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/engramnet"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        }
+    ]
+}

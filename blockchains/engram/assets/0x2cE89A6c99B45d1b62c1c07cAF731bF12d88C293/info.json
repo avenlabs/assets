@@ -1,0 +1,33 @@
+{
+    "name": "Wrapped Ethereum",
+    "website": "https://ethereum.org",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://tokioscan-v2.engram.tech/token/0x2cE89A6c99B45d1b62c1c07cAF731bF12d88C293",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2cE89A6c99B45d1b62c1c07cAF731bF12d88C293",
+    "tags": [
+        "dapp",
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ethereum"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        }
+    ]
+}

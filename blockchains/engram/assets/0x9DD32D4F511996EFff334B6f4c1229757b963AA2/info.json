@@ -1,0 +1,28 @@
+{
+    "name": "Tether",
+    "website": "https://tether.to",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://tokioscan-v2.engram.tech/token/0x9DD32D4F511996EFff334B6f4c1229757b963AA2",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x9DD32D4F511996EFff334B6f4c1229757b963AA2",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/tether.to/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/tether/"
+        }
+    ]
+}
